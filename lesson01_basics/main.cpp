@@ -1,6 +1,17 @@
 #include <iostream>
 #include <string>
 
+#ifdef _WIN32
+#include <windows.h>
+#endif
+
+void setupConsole() {
+#ifdef _WIN32
+    SetConsoleOutputCP(65001);
+    SetConsoleCP(65001);
+#endif
+}
+
 void basicTypes() {
     int num = 100;
     float f = 3.14f;
@@ -60,6 +71,7 @@ public:
 };
 
 int main() {
+    setupConsole();
     std::cout << "=== 第1课：C++基础语法 ===" << std::endl;
     
     std::cout << "\n1. 基本数据类型:" << std::endl;

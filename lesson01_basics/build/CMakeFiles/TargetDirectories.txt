@@ -1,0 +1,3 @@
+D:/software/02_self_web/cpp_learn/lesson01_basics/build/CMakeFiles/lesson01.dir
+D:/software/02_self_web/cpp_learn/lesson01_basics/build/CMakeFiles/edit_cache.dir
+D:/software/02_self_web/cpp_learn/lesson01_basics/build/CMakeFiles/rebuild_cache.dir
