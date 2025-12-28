@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/workspaces/cpp_learn/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_demo.dir/src/main.cpp.o -c /workspaces/cpp_learn/src/main.cpp",
+  "file": "/workspaces/cpp_learn/src/main.cpp",
+  "output": "CMakeFiles/cpp_demo.dir/src/main.cpp.o"
+}
+]
