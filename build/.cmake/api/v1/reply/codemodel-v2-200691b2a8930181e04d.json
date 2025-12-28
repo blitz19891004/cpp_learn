@@ -6,7 +6,7 @@
 			[
 				{
 					"build" : ".",
-					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.10"
@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "cpp_demo::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-cpp_demo-Debug-03e5080b4565cc517718.json",
+					"jsonFile" : "target-cpp_demo-Debug-d5a29feb226f6cf8b866.json",
 					"name" : "cpp_demo",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/workspaces/cpp_learn/build",
-		"source" : "/workspaces/cpp_learn"
+		"build" : "D:/software/02_self_web/cpp_learn/build",
+		"source" : "D:/software/02_self_web/cpp_learn"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 6
+		"minor" : 8
 	}
 }

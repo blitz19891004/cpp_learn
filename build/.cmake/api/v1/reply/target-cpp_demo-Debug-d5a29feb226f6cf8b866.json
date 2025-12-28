@@ -2,7 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "cpp_demo"
+			"path" : "cpp_demo.exe"
+		},
+		{
+			"path" : "cpp_demo.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -63,14 +66,14 @@
 				"role" : "flags"
 			},
 			{
-				"fragment" : "",
-				"role" : "flags"
+				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
+				"role" : "libraries"
 			}
 		],
 		"language" : "CXX"
 	},
 	"name" : "cpp_demo",
-	"nameOnDisk" : "cpp_demo",
+	"nameOnDisk" : "cpp_demo.exe",
 	"paths" : 
 	{
 		"build" : ".",

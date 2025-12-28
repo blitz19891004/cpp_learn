@@ -1,8 +1,8 @@
 [
 {
-  "directory": "/workspaces/cpp_learn/build",
-  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_demo.dir/src/main.cpp.o -c /workspaces/cpp_learn/src/main.cpp",
-  "file": "/workspaces/cpp_learn/src/main.cpp",
-  "output": "CMakeFiles/cpp_demo.dir/src/main.cpp.o"
+  "directory": "D:/software/02_self_web/cpp_learn/build",
+  "command": "D:\\software\\mingw64\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\cpp_demo.dir\\src\\main.cpp.obj -c D:\\software\\02_self_web\\cpp_learn\\src\\main.cpp",
+  "file": "D:/software/02_self_web/cpp_learn/src/main.cpp",
+  "output": "CMakeFiles/cpp_demo.dir/src/main.cpp.obj"
 }
 ]
