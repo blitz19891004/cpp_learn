@@ -3,6 +3,7 @@
 #include <string>
 #include <map>
 #include <algorithm>
+#include <windows.h>
 
 void vectorDemo() {
     std::vector<int> numbers;
@@ -78,6 +79,7 @@ void algorithmDemo() {
 }
 
 int main() {
+    SetConsoleOutputCP(65001);
     std::cout << "=== 第2课：STL容器和字符串处理 ===" << std::endl;
     
     std::cout << "\n1. Vector容器:" << std::endl;
